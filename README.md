@@ -3,7 +3,7 @@ A TOKEN OF OUR CLUB
 
 
 
-Zeppelin ERC20 Documentation: https://docs.openzeppelin.com/contracts/4.x/api/token/erc20   ( IERC20 - GITHUB )      
+Zeppelin ERC20 Documentation: https://docs.openzeppelin.com/contracts/4.x/api/token/erc20   ( IERC20 - GITHUB )     
      TOKEN DESIGN 
 
 - ETL TOKEN
