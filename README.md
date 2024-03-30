@@ -32,6 +32,10 @@ Zeppelin ERC20 Documentation: https://docs.openzeppelin.com/contracts/4.x/api/to
 
 
 
+      THE RINKEBY TESTNET IS NOT WORKING SO NOW GOING TO DO IN SOLANA 
+
+
+
 
 
 --- if not works --- 
